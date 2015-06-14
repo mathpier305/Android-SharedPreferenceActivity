@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MySharePreference</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="promptUserName">Please Enter your name </string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="button_save">Save</string>
+
+</resources>

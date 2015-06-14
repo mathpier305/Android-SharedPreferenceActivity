@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <CheckBoxPreference android:title="Color Green Option" android:summary="This is option for color Green" android:key="first"/>
+    <CheckBoxPreference android:title="color Yellow Option" android:summary="This is the option for color Yellow" android:key="second"/>
+    <CheckBoxPreference android:title="Red Option Color" android:summary="This is the option for Color Red" android:key="third"/>
+    
+
+</PreferenceScreen>
